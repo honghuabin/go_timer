@@ -1,0 +1,3 @@
+2022/07/26 15:13:16 1658819596  - get request:  {http://api.yaha.com/api/getPmd 3ns {"id": 23,"name": "你好"}}
+2022/07/26 15:13:19 1658819599  - request:  {http://api.yaha.com/api/getPmd 3ns {"id": 23,"name": "你好"}}
+2022/07/26 15:13:19 1658819599  - response:  {"code":0,"msg":"Action successful","data":{"id":"23","name":"你好"}}
